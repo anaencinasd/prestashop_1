@@ -2,8 +2,6 @@
 
 ---
 
-### Nueva funcionalidad de fecha de publicación en DbBlog
-
 Hemos introducido una nueva característica en la tabla `dbblog_post` que permite a los usuarios establecer y editar la fecha de publicación de las entradas del blog. 
 
 ### Cambios en la base de datos
