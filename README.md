@@ -6,7 +6,7 @@ Hemos introducido una nueva característica en la tabla `dbblog_post` que permit
 
 ### Cambios en la base de datos
 
-Se ha agregado una nueva columna llamada `DBBLOG_POST_DATE` a la tabla `dbblog_post`. Esta columna almacena la fecha y hora de publicación de las entradas del blog.
+Se ha agregado una nueva columna llamada `date_to_publish` a la tabla `dbblog_post`. Esta columna almacena la fecha y hora de publicación de las entradas del blog.
 
 ### Actualizaciones en el controlador
 
